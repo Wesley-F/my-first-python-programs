@@ -1,0 +1,41 @@
+print("What is your name?")
+name = input()
+print("Adjective")
+staff2 = input()
+print("Verb")
+adjective1 = input()
+print("Band Kid")
+name4 = input()
+print("Number")
+number1 = input()
+print("Band Kid")
+name1 = input()
+print("Band Kid")
+name2 = input()
+print("Band Kid")
+name3 =input()
+print("Verb")
+verb1 = input()
+print("-ing Verb")
+ing_verb1 = input()
+print("Adjective")
+adjective2 = input()
+print("-ed Verb")
+ed_verb1 = input()
+print("Noun")
+noun1 = input()
+print("Staff Member")
+staff1 = input()
+print("Verb")
+verb2 = input()
+print("Staff Member")
+
+verb3 = input()
+print (name + "'s Band Camp Experiance")
+print ("One day at band camp, we " + ed_verb1 + " for 4 hours " +
+       "straight. It was " + adjective1 + ". The whole staff joined in after " +
+       number1 + " minutes. Even " + name1 + " was there. It all started " +
+       "because " + name2 + " thought it would be a good idea to " +
+       verb1 + ". Soon " + name3 + " and " + name4 + " were on the " +
+       adjective2 + " " + noun1 + ". No one expected " + staff1 + " to " +
+       verb2 + " or for " + staff2 + " to " + verb3 + ".")
